@@ -1,6 +1,8 @@
 ### Hi there 👋
 <a href="https://github.com/amirdeganfarbunnings">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirdeganfarbunnings&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirdeganfarbunnings&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdeganfarbunnings&theme=dracula" />
+
 <!--
 **amirdeganfarbunnings/amirdeganfarbunnings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
